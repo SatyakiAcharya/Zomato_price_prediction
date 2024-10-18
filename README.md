@@ -11,11 +11,11 @@ This project aims to predict Zomato's stock prices using a Stacked LSTM (Long Sh
 ## 📊 Data
 The dataset contains historical stock prices for Zomato, including:
 
--Open
--Close
--High
--Low
--Volume
+- Open
+- Close
+- High
+- Low
+- Volume
 **Data has been preprocessed to:**
 
 - Normalize the stock prices to improve model accuracy.
